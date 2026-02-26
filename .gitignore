@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+checkin_bot.session
+checkin_bot.session-journal
+test1.jpg

@@ -37,3 +37,8 @@ python-socks[asyncio]
 apprise
 fastapi
 uvicorn[standard]
+
+git+https://github.com/openai/CLIP.git
+transformers
+torch
+sentencepiece
